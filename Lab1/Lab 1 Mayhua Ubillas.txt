@@ -1,0 +1,82 @@
+								
+
+								Laboratorio nro 1
+
+Nombre: Mayhua Ubillas Jhordan Leonardo
+Grupo :B.   
+Diseño de Software e Integracion de Sistemas. VI Ciclo
+
+1.- Complete la siguiente tabla sobre los principales módulos disponibles en ODOO:
+
+		Nro  	Nombre del Modulo               						Descripcion
+
+		1     	 	   CRM               	Con OpenERP CRM podrá hacer un seguimiento de todas sus comunicaciones 
+											con los clientes y de las posibilidades de venta de su negocio. Existe 
+											la opción de ajustar los ciclos de venta según sus requisitos, de crear 
+											estadísticas, previsiones y campañas de marketing automatizadas para así 
+											mejorar el rendimiento de ventas.
+
+
+
+		2 	Ventas / Gestión de pedidos     Para conseguir un seguimiento integral desde la consulta hasta el pedido
+											del cliente y su facturación, OpenERP pone a su disposición un módulo 
+											extenso y eficiente. Numerosos análisis completan la funcionalidad de 
+											esta valiosa herramienta.
+
+		3 	 Contabilidad y finanzas        Realice sus entradas con unos pocos clics y gestione sus finanzas en un
+											único modulo. Nunca fue tan fácil manejar su contabilidad financiera.
+
+		4    		Compras					Registre y siga sus órdenes de compra, administre los datos de contacto 
+											de sus proveedores, supervise la entrada de mercancías y controle las 
+											facturas recibidas de sus proveedores.
+
+		5  Gestión y control de almacenes	La gestión y el control de almacenes de OpenERP funcionan en base al 
+											principio de la doble contabilización; de esta manera es posible retratar
+											de forma sencilla requisitos complejos de la gestión del almacén: 
+											seguimiento de existencias de proveedores o bien clientes, trazabilidad 
+											completa de movimientos de almacén, enlace con contabilidad, etc. OpenERP
+											fomenta la ilustración de varios almacenes que son definidos tanto 
+											geográficamente como jerárquicamente. Administre su propio almacén interno, 
+											externos, de clientes, proveedores o lugar de almacenamiento y producción.
+
+		6		  Fabricación				Planifique y controle su cadena de suministro con ayuda de distintas 
+											aplicaciones en el módulo “Fabricación” de OpenERP. Personalice sus datos 
+											clave. Configure la planificación de fabricación, administre las órdenes de 
+											fabricación y de trabajo.
+
+		7	Recursos humanos & nóminas		Administre el valor más preciado de su compañía: “sus empleados”. Con 
+											nuestro módulo RRHH además de ser capaz de introducir información personal 
+											de sus empleados, podrá registrar tiempos de asistencia y ausencia, registrar 
+											el cómputo de horas asociadas a cada proyecto y las dietas correspondientes, 
+											a crear evaluaciones del personal y por último a gestionar la selección de 
+											personal.
+
+		8     Gestión de proyectos			Administre y siga sus proyectos, utilice tareas para pequeños proyectos /a 
+											corto plazo, así como planificar las diferentes fases del proyecto, para 
+											aquellos de larga duración.
+
+
+
+
+
+2. Complete la siguiente tabla sobre los principales productos ERP disponibles en la actualidad:
+
+Nro            Software ERP         Proveedor                                       Descripción
+
+1			  Siesa Cloud SBS		  Siesa 	    	La solución de software ERP en la nube que crece junto a su empresa 
+														es ideal para pequeñas y medianas empresas que no están en la capacidad 
+														de hacer grandes inversiones en tecnología, que buscan implementar 
+														rápidamente una solución de software ERP, que integre todos sus procesos.
+
+2				 TOTVS ERP 			  TOTVS.            OTVS es una empresa de software, servicios y tecnología, con foco en ERP.
+														Es la mayor fabricante de software de aplicación con sede en países 
+														emergentes y la 6ª mayor del mundo.
+
+
+
+
+
+
+   
+
+ 
