@@ -1,0 +1,38 @@
+
+Laboratorio 2
+Nombre: Mayhua Ubillas Jhordan leonardo   Grupo B
+
+
+Tarea
+       __init__.py  			Determina los archivos XML que serán convertidos durante la 
+								inicialización. Determina las dependencias del módulo creado
+
+     __manifest__.py  			Contiene la información del módulo como su nombre, resumen, 
+								descripcion, autor, sitio web, tags, categoria y version
+
+       controllers 				Contiene los archivos que servirán para definir las rutas 
+								del módulo
+
+          demo 					Contiene un script de llenado de data a modo de demostración.
+
+         models 				Para definir los modelos de clase junto con atributos y funciones.
+
+
+        security 				Contiene los permisos para los modelos y archivos.
+
+
+          views 				Contiene las vistas y los registros del modelo a ser mostrado.
+          						Cada tipo de vista representa un modo de visualización.
+
+Conclusiones
+
+
+	-Odoo nos permite personalizar y crear nuestros propios modulos
+
+	-Odoo nos brinda la facilidad para poder integrar sus modulos en cualquier tipo de negocio
+
+	-Podemos adecuar odoo a las necesidades tanto como de cliente y de programador optimizando resultados que nosotros buscamos
+
+	-La desinstalación de un módulo en Odoo tambien es intuitiva y rápida.
+
+	-Para la creación de un módulo en Odoo, primero debemos activar el modo desarrollador en la seccion de ajustes.
