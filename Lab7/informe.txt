@@ -1,65 +1,33 @@
-Lab 07 - ISEA - Configuración Básica Inventarios, POS y Compras
-Alumno: Palo Rosas Jesus Abdon
-Especialidad: C-15
-Grupo: B
+			Lab 07
 
--------------------------------------------------------------------------
+Alumno: Mayhua Ubillas Jhordan Leonardo
+Carrera: C-15                               Grupo: B
+----------------------------------------------------
 
-1. Creación de base de datos limpia acme_db
+1. 	Captura 1
 
-	Captura .- bd_limpia.PNG
+2. 	Captura 2
 
-2. Empresa con logo de tecsup
+3. 	Captura 3
+	captura 4
+
+4.  Captura5
+
+5.  Captura 6
+
+6.  Captura 7
+	Captura 8
+
+7. Captura 9
+
+Observaciones y Conclusiones
+
 	
-	Captura.- logo_compañia.PNG
+- Odoo permite modificar la información de la compañia, desde el logo hasta información de su ubicación, asi como añadir otra compañia.
 
-3. Creación de 30 productos tecnológicos.
+- El módulo de gestión de inventario permite organizar los productos, configurar los almacenes, realizar ajustes de inventario cada cierto tiempo asi como establecer reglas de abastecimiento.
 
-	Tres creados manualmente
-		
-		Captura.- productos_manual.PNG
+- El módulo de Punto de Venta integra un sistema con interfaz para realizar ventas de los productos existentes de manera eficiente. Permite configurar entre otras cosas, los métodos de pago aceptados, asi como establecer si el Punto de Venta pertenece a un bar / restaurante para activar la organización de mesas.
+- El punto de venta trabaja de manera online y offline, asi que una vez que el servicio se reestableca, se actualizaran los cambios realizados durante el estado offline.
 
-	Productos importados csv
-
-		Archivo.- export_acme.csv - - export_productos_acme_csv.PNG
-
-		Captura.- export_csv.PNG
-
-4. Ajuste de Inventario
-
-	Captura.- ajuste_inventario.PNG
-
-5. Medio de pago VISA
-
-	Captura.- metodos_pago.PNG
-
-6. Ventas en el Punto de Venta
-
-	OFFLINE.- 15_ventasPOV.PNG
-
-	ONLINE.- 15_ventasONLINE.PNG
-
-7. Compras de Proveedores
-
-	Captura.- 	solicitud_prv1.PNG
-			solicitud_prv3.PNG
-
-8. Recepción parcial de compras
-
-	Parcial					.- compra_parcial1.PNG
-	Recepcion incompleta de producto 	.- producto_incompleto_previsto.PNG 
-
-9. Pago a proveedores
-
-	2 facturas completas y 1 incompleta.- facturas_prv.PNG
-
-10. Observaciones y Conclusiones
-
-	- Odoo permite trabajar con varias bases de datos en simultaneo.
-	- Odoo permite modificar la información de la compañia, desde el logo hasta información de su ubicación, asi como añadir otra compañia.
-	- El módulo de gestión de inventario permite organizar los productos, configurar los almacenes, realizar ajustes de inventario cada cierto tiempo asi como establecer reglas de abastecimiento.
-	- Al instalar el módulo de inventario, también se añade el módulo de Debates con el cual se pueden realizar charlas entre los integrantes de la compañia así como reuniones privadas.
-	- El módulo de Punto de Venta integra un sistema con interfaz para realizar ventas de los productos existentes de manera eficiente. Permite configurar entre otras cosas, los métodos de pago aceptados, asi como establecer si el Punto de Venta pertenece a un bar / restaurante para activar la organización de mesas.
-	- El punto de venta trabaja de manera online y offline, asi que una vez que el servicio se reestableca, se actualizaran los cambios realizados durante el estado offline.
-	- El módulo de Compras permite realizar ordenes de abastecimiento a los proveedores registrados. Permite procesar las facturas de estas ordenes y llevar un seguimiento de las facturas pagadas en su totalidad y las que se mantiene una deuda.
 		
